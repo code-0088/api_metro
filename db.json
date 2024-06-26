@@ -1,0 +1,21 @@
+{ "metro":[
+    {
+      "id": "1",
+      "nombre": "Estación Los Dominicos",
+      "latitud": -33.373493,
+      "longitud": -70.518682
+    },
+    {
+      "id": "2",
+      "nombre": "Estación Pajaritos",
+      "latitud": -33.456556,
+      "longitud": -70.723035
+    },
+    {
+      "id": "3",
+      "nombre": "Estación Tobalaba",
+      "latitud": -33.416954,
+      "longitud": -70.600288
+    }
+]
+}
